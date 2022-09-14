@@ -2,6 +2,7 @@
 
 # Mi-primer-repositorio :rocket:
 
-Me gusta jugar al futbol, ⚽
-Soy hincha de River PLate, ⚽
-Fotógrafo de profesión :photographer:
+I like soccer, ⚽    
+I'm a river plate fan, ⚽
+professional photographer 🔥
+
